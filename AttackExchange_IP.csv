@@ -1,0 +1,33 @@
+IP	ISP	Location	Function	Source	Actor
+103.77.192[.]219	Multibyte Info Technology Limited	HK	Exploit Source	Volexity	HAFNIUM
+104.140.114[.]110	Eonix	US	Exploit Source	Volexity	HAFNIUM
+104.248.49[.]97	DigitalOcean	US	Exploit Source	Various	N/A
+104.250.191[.]110	PERFORMIVE	US	Exploit Source	Volexity	HAFNIUM
+108.61.246[.]56	Choopa	JP	Exploit Source	Volexity	HAFNIUM
+112.66.255[.]71	Chinanet	CN	Exploit Source	Various	N/A
+139.59.56[.]239	DigitalOcean	IN	Exploit Source	Various	N/A
+149.28.14[.]163	Choopa	US	Exploit Source	Volexity	HAFNIUM
+157.230.221[.]198	DigitalOcean	US	Exploit Source	Volexity	HAFNIUM
+161.35.1[.]207	DigitalOcean	US	Exploit Source	Various	N/A
+161.35.1[.]225	DigitalOcean	US	Exploit Source	Various	N/A
+161.35.45[.]41	DigitalOcean	GB	Exploit Source, Scanning	Swiss CERT, Rapid7	N/A
+161.35.51[.]41	DigitalOcean	US	Exploit Source	Various	N/A
+161.35.76[.]1	DigitalOcean	DE	Exploit Source	Various	N/A
+165.232.154[.]116	DigitalOcean	US	Exploit Scanning	FireEye, Rapid7	UNC2639
+167.99.168[.]251	DigitalOcean	US	Exploit Source	Volexity	HAFNIUM
+167.99.239[.]29	DigitalOcean	US	Exploit Source	Various	N/A
+182.18.152[.]105	CtrlS Datacenters Ltd	IN	Unknown	FireEye	UNC2639
+185.250.151[.]72	Innovation IT	US	Exploit Source	Volexity	HAFNIUM
+188.166.162[.]201	DigitalOcean	DE	Exploit Source	Various	N/A
+192.81.208[.]169	DigitalOcean	US	Exploit Source	Volexity	HAFNIUM
+194.87.69[.]35	LLC Baxet	RU	Webshell C2	Rapid7	N/A
+203.160.69[.]66	China Unicom	HK	Exploit Source	Volexity	HAFNIUM
+211.56.98[.]146	Korea Telecom	KR	Exploit Source	Volexity	HAFNIUM
+45.77.252[.]175	Choopa	SG	Exploit Source	Various	N/A
+5.2.69[.]14	The Infrastructure Group	NL	Exploit Source	Various	N/A
+5.254.43[.]18	Voxility	US	Exploit Source	Volexity	HAFNIUM
+77.61.36[.]169	KPN	NL	Exploit Source	Various	N/A
+80.92.205[.]81	Innovation IT	US	Exploit Source	Volexity	HAFNIUM
+86.105.18[.]116	WorldStream	NL	Unknown	FireEye	UNC2643
+89.34.111[.]11	23Media	DE	Unknown	FireEye	UNC2643
+91.192.103[.]43	Datasource	CH	Exploit Source	Various	N/A
