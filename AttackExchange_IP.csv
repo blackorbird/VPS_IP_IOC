@@ -13,7 +13,7 @@ IP,ISP,Location,Function,Source,Actor
 161.35.45[.]41,DigitalOcean,GB,Exploit Source,ScanningSwissCERTRapid7,N/A
 161.35.51[.]41,DigitalOcean,US,Exploit Source,Various,N/A
 161.35.76[.]1,DigitalOcean,DE,Exploit Source,Various,N/A
-165.232.154[.]116,DigitalOcean,US,Exploit Scanning,FireEye, Rapid7,UNC2639
+165.232.154[.]116,DigitalOcean,US,Exploit Scanning,FireEyeRapid7,UNC2639
 167.99.168[.]251,DigitalOcean,US,Exploit Source,Volexity,HAFNIUM
 167.99.239[.]29,DigitalOcean,US,Exploit Source,Various,N/A
 182.18.152[.]105,CtrlS Datacenters Ltd,IN,Unknown,FireEye,UNC2639
